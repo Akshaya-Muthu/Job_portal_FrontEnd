@@ -283,7 +283,7 @@ export const footerLinks = [
     links: ["Account", "Support Center", "Feedback", "Accessibility"],
   },
 ];
-export const REACT_APP_API_URL ="http://localhost:5000"
+export const REACT_APP_API_URL ="https://jobportal-backend-qcjc.onrender.com"
 export const companies = [
   {
     _id: 1,
